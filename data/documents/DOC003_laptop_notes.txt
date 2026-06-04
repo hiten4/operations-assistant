@@ -1,0 +1,11 @@
+Document ID: DOC003
+Title: Product Notes - Laptops
+Date: 2024-02-01
+
+Our flagship laptop model (SKU: LAP-PRO-15) has a 15-inch display with 4K resolution.
+Battery life averages 10 hours under normal use conditions.
+The laptop supports up to 64GB RAM and 2TB SSD storage configurations.
+A known firmware issue with models manufactured before October 2023 causes occasional Wi-Fi drops.
+Affected units can be identified by serial numbers starting with "LP23A".
+A firmware patch (v2.1.4) is available on our support portal and resolves this issue.
+Customers with defective units are eligible for an extended 90-day return window.

@@ -1,0 +1,12 @@
+Document ID: DOC006
+Title: Support Ticket #103
+Date: 2024-03-12
+
+Customer: Alice Johnson (order #ORD-4512)
+Product: Mechanical Keyboard (SKU: KB-MECH-TKL)
+Issue: Three keys (Q, W, E) stopped registering after two weeks of use.
+Resolution: Agent confirmed defective unit from batch KB-MECH-TKL-B3.
+Customer offered full replacement or store credit.
+Customer chose replacement. New unit dispatched within 24 hours.
+Status: CLOSED
+Category: Hardware Defect / Batch Issue

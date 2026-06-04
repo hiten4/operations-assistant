@@ -1,0 +1,11 @@
+Document ID: DOC007
+Title: Support Ticket #104
+Date: 2024-03-18
+
+Customer: Carlos Rivera (order #ORD-4561)
+Product: Laptop LAP-PRO-15 (Serial: LP23A-00789)
+Issue: Frequent Wi-Fi disconnection, similar to previously reported issue.
+Resolution: Agent identified pre-October 2023 serial. Directed to firmware v2.1.4.
+Customer confirmed fix successful after applying patch.
+Status: CLOSED
+Category: Firmware / Connectivity

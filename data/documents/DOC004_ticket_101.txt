@@ -1,0 +1,12 @@
+Document ID: DOC004
+Title: Support Ticket #101
+Date: 2024-03-05
+
+Customer: Jane Doe (order #ORD-4421)
+Product: Laptop LAP-PRO-15 (Serial: LP23A-00542)
+Issue: Wi-Fi disconnects every 30-45 minutes, even at close range to router.
+Resolution: Agent identified serial number as pre-October 2023 batch.
+Customer was directed to firmware patch v2.1.4 on the support portal.
+Customer confirmed successful update. Wi-Fi issue resolved.
+Status: CLOSED
+Category: Firmware / Connectivity

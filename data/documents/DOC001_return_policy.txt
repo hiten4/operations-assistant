@@ -1,0 +1,11 @@
+Document ID: DOC001
+Title: Return Policy
+Date: 2024-01-15
+
+Our return policy allows customers to return most items within 30 days of purchase.
+Items must be in original condition, unused, and in original packaging.
+Electronics must be returned within 15 days and must include all original accessories.
+Perishable goods, digital downloads, and customized products are non-returnable.
+To initiate a return, customers must contact support@opsstore.com with their order ID.
+Refunds are processed within 5-7 business days after the returned item is received.
+Shipping costs for returns are borne by the customer unless the item is defective.

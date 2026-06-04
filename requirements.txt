@@ -1,0 +1,11 @@
+# Requires Python 3.11 or 3.12 (not 3.13/3.14 — not yet supported by crewai/mcp)
+# Recommended: install Python 3.11 from https://www.python.org/downloads/release/python-3119/
+# then: py -3.11 -m venv .venv
+
+mcp>=1.0.0
+crewai>=0.80.0
+crewai-tools[mcp]>=0.14.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+litellm>=1.0.0

@@ -1,0 +1,16 @@
+order_id,product,sku,stock,status,category,unit_price,reorder_level
+101,Laptop Pro 15,LAP-PRO-15,12,Available,Electronics,1299.99,20
+102,Wireless Mouse,MSE-WL-01,48,Available,Peripherals,29.99,10
+103,Mechanical Keyboard,KB-MECH-TKL,35,Available,Peripherals,89.99,10
+104,USB-C Hub,HUB-7P-UC,0,Out of Stock,Accessories,49.99,10
+105,4K Monitor 27in,MON-4K-27,5,Low Stock,Electronics,549.99,20
+106,Laptop Stand,STD-ALU-ADJ,22,Available,Accessories,39.99,10
+107,Webcam HD 1080p,CAM-HD-1080,0,Out of Stock,Peripherals,79.99,10
+108,Noise Cancelling Headphones,HP-NC-PRO,8,Low Stock,Audio,199.99,10
+109,SSD 1TB External,SSD-EXT-1TB,31,Available,Storage,109.99,10
+110,Wireless Keyboard,KB-WL-SLIM,0,Out of Stock,Peripherals,59.99,10
+111,Gaming Mouse Pad XL,PAD-XL-RGB,67,Available,Accessories,24.99,15
+112,USB-A to USB-C Cable 2m,CBL-UA-UC-2M,14,Available,Accessories,12.99,20
+113,Portable Charger 20000mAh,CHG-20K-PD,9,Low Stock,Accessories,49.99,10
+114,HDMI Cable 3m,CBL-HDMI-3M,42,Available,Accessories,14.99,20
+115,Laptop Sleeve 15in,SLV-15-NBK,19,Available,Accessories,19.99,10

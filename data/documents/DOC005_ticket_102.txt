@@ -1,0 +1,12 @@
+Document ID: DOC005
+Title: Support Ticket #102
+Date: 2024-03-08
+
+Customer: Bob Smith (order #ORD-4489)
+Product: Wireless Mouse (SKU: MSE-WL-01)
+Issue: Mouse cursor stutters and freezes intermittently.
+Resolution: Agent asked customer to replace the USB receiver in a different port.
+Customer tried all USB ports with no improvement.
+A replacement unit was dispatched under warranty.
+Status: CLOSED
+Category: Hardware Defect

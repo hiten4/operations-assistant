@@ -1,0 +1,11 @@
+Document ID: DOC008
+Title: Warehouse Operational Rules
+Date: 2024-01-20
+
+Stock replenishment must be initiated when any product falls below 10 units.
+Critical items (laptops, monitors) require a minimum safety stock of 20 units.
+All incoming shipments must be logged in the inventory system within 2 hours of arrival.
+Items flagged as defective must be quarantined in Zone C and tagged with a red label.
+No products from a flagged batch may be shipped until quality review is complete.
+Warehouse staff must conduct a full stock count every first Monday of the month.
+Discrepancies greater than 5 units must be reported to the operations manager immediately.
